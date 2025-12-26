@@ -1,4 +1,4 @@
-# 📚 Learn React the Right Way | تعلم React بالطريقة الصحيحة
+# 📚 Learn React the Right Way | تعلم ريآكت بالطريقة الصحيحة
 
 <div align="center">
 
