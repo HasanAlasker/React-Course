@@ -71,27 +71,6 @@ npm install
 # Start the development server
 npm start
 ```
-
-### 📁 Repository Structure
-
-```
-📦 learn-react-the-right-way
-├── 📂 01-fundamentals
-│   ├── 📂 01-intro
-│   ├── 📂 02-jsx
-│   └── 📂 03-components
-├── 📂 02-intermediate
-│   ├── 📂 01-hooks
-│   ├── 📂 02-lists
-│   └── 📂 03-forms
-├── 📂 03-advanced
-│   ├── 📂 01-context
-│   ├── 📂 02-custom-hooks
-│   └── 📂 03-optimization
-├── 📂 projects
-└── 📄 README.md
-```
-
 ### 🎥 Video Series
 
 Each folder corresponds to a video in the series. Watch them in order for the best learning experience!
