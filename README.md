@@ -5,7 +5,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
-![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)
+![English](https://img.shields.io/badge/Language-Arabic-blue?style=for-the-badge)
 
 ### 🎯 Learn React by Reading the Official Documentation
 
