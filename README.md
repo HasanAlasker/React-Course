@@ -10,7 +10,7 @@
 
 *Your journey to mastering React starts here*
 
-[📺 Watch on YouTube](#) • [🌟 Star this repo](#) • [🤝 Contribute](#)
+[📺 Watch on YouTube]([#](https://www.youtube.com/@hasanalasker9462)) • [🌟 Star this repo]([#](https://github.com/HasanAlasker/React-Course))
 
 </div>
 
