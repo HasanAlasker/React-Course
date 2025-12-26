@@ -1,4 +1,4 @@
-# 📚 Learn React the Right Way | تعلم ريآكت بالطريقة الصحيحة
+# 📚 Learn React the Right Way | تعلم React بالطريقة الصحيحة
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 *Your journey to mastering React starts here*
 
-[📺 Watch on YouTube]([#](https://www.youtube.com/@hasanalasker9462)) • [🌟 Star this repo]([#](https://github.com/HasanAlasker/React-Course))
+[📺 Watch on YouTube](https://www.youtube.com/@hasanalasker9462) • [🌟 Star this repo](https://github.com/HasanAlasker/React-Course)
 
 </div>
 
@@ -60,10 +60,10 @@ This course is my attempt to share that revelation with you. Instead of spoon-fe
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/learn-react-the-right-way.git
+git clone https://github.com/HasanAlasker/React-Course.git
 
 # Navigate to project folder
-cd learn-react-the-right-way
+cd React-Course
 
 # Install dependencies
 npm install
@@ -115,19 +115,17 @@ Found a bug? Have a suggestion? Feel free to open an issue or submit a pull requ
 
 ### 📬 Stay Connected
 
-- 📺 [YouTube Channel](#)
-- 🐦 [Twitter](#)
-- 💼 [LinkedIn](#)
+- 📺 [YouTube Channel](https://www.youtube.com/@hasanalasker9462)
+- 🌐 [Portfolio Website](https://alasker.dev/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hasan-alasker-58682335a/)
+- 📸 [Instagram](https://www.instagram.com/hasan_s_alasker/?hl=en)
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-<div align="center">
-
-**⭐ If this helped you, consider starring the repo! ⭐**
-
-</div>
-
----
 <div align="center">
 
 **🚀 Ready to start your React journey? Let's go! | مستعد لبدء رحلتك مع React؟ هيا بنا! 🚀**
